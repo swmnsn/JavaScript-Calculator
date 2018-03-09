@@ -1,0 +1,14 @@
+.container{
+  background-color: #99d6ff;
+  width: 300px;
+  margin: 70px;
+}
+
+.btn{
+  margin: 8px;
+  background: linear-gradient(#99d6ff, #007acc);
+}
+
+#bar{
+  margin: 8px;
+}
